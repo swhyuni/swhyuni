@@ -1,16 +1,12 @@
-### Hi there 👋
+# Hi there, I'm Sri Wahyuni 👋
+I'm a passionate data driven enthusiast with a business background.
 
-<!--
-**swhyuni/swhyuni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🏆 I'm Graduated from Data Science Bootcamp at Hacktiv8 Indonesia
+- 🏆 I have completed Google Data Analytics Professional Certificate.
+- 📖 I'm currently learning about Data Analytics and Data Science.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙ Latest Projects
+| **Project**                         | **Tools** |
+|-------------------------------------|-----------|
+| <a href="https://github.com/swhyuni/Telco-Customer-Churn-using-ANN" target="_blank">Telco Customer Churn Using ANN | Python         |
+| <a href="https://github.com/swhyuni/Credit-Card-Classification-Prediction-of-Default-Payments" target="_blank">Credit Card Classification Prediction</a>            | Python       |
