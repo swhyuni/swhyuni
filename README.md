@@ -28,9 +28,6 @@ I'm a passionate data driven enthusiast with a business background.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="45" height="45"/>
 </p>
 
-## GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swhyuni&show_icons=true&theme=radical)
-
 ## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swhyuni&theme=radical)
 
